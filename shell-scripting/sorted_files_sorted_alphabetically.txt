@@ -1,0 +1,14 @@
+IMG
+README.md
+file1.txt
+file2.txt
+file3.txt
+index.txt
+input.txt
+navigating-linux-filesystem.sh
+shell-scripting
+shellscript.sh
+sorted_files.txt
+sorted_files_sorted_alphabetically.txt
+sorting.sh
+user-input.sh
